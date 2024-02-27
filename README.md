@@ -8,7 +8,6 @@
   </ul> 
 </div>
 
-
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
@@ -16,9 +15,9 @@
   </ul>
 </div>
 
-<!--- tetris -->
+<!-- Tetris -->
 <div align="center">
-    <img src="https://tetris.julioromero.xyz/static/media/tetris.723e21c9.gif" alt="tetris">
+  <iframe src="https://tetris.julioromero.xyz/" width="100%" height="500px"></iframe>
 </div>
 
 <!--h1 without bottom border-->
