@@ -45,7 +45,7 @@
 <!--profile visit count-->
 <div align="center">
   
-[![](https://visitcount.itsvg.in/api?id=julioromero&icon=3&color=6)](https://visitcount.itsvg.in)
+[![](linkedin.com/in/julio-romero-60b14b25b)](https://visitcount.itsvg.in)
   
 </div>
 
