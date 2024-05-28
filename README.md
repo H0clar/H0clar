@@ -10,7 +10,7 @@
 
 <!-- Profile stats -->
 <p align="center">
-  <img src="/mnt/data/image.png" alt="GitHub Stats" width="600">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_NOMBRE_DE_USUARIO&show_icons=true&theme=radical" alt="GitHub Stats" width="600">
 </p>
 
 <!--h2 without bottom border-->
@@ -35,7 +35,7 @@
 </div>
 
 <p align="center">
-  <img src="/mnt/data/image.png" alt="Most Used Languages" width="600">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=H0clar&layout=compact&theme=radical" alt="Most Used Languages" width="600">
 </p>
 
 <!-- Connect with me -->
