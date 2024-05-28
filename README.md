@@ -1,6 +1,6 @@
-<!-- Encabezado con gradiente -->
+<!-- Banner -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="Banner">
 </div>
 
 <!-- Presentación -->
@@ -10,14 +10,6 @@
 <!-- Estadísticas de GitHub -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=H0clar&show_icons=true&theme=radical" alt="GitHub Stats">
-</p>
-
-<!-- Tecnologías -->
-<h3 align="center">Tecnologías</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,fastapi,git,github&perline=14" />
-  </a>
 </p>
 
 <!-- Lenguajes más utilizados -->
@@ -39,7 +31,7 @@
   <img src="https://visitor-badge.glitch.me/badge?page_id=H0clar.H0clar" alt="Visitor Count">
 </p>
 
-<!-- Separador con gradiente -->
+<!-- Banner -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="Banner">
 </div>
