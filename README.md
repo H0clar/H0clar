@@ -1,5 +1,5 @@
 <!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider">
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
@@ -10,7 +10,7 @@
 
 <!-- Profile stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=H0clar&show_icons=true&theme=radical" alt="GitHub Stats" width="600">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_NOMBRE_DE_USUARIO&show_icons=true&theme=radical&count_private=true&hide=issues" alt="GitHub Stats" width="600">
 </p>
 
 <!--h2 without bottom border-->
@@ -35,7 +35,7 @@
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=H0clar&layout=compact&theme=radical" alt="Most Used Languages" width="600">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_NOMBRE_DE_USUARIO&layout=compact&theme=radical&hide=javascript,html,css" alt="Most Used Languages" width="600">
 </p>
 
 <!-- Connect with me -->
@@ -59,4 +59,4 @@
 </div>
 
 <!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider">
