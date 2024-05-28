@@ -10,7 +10,7 @@
 
 <!-- Profile stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_NOMBRE_DE_USUARIO&show_icons=true&theme=radical" alt="GitHub Stats" width="600">
+  <img src="https://github-readme-stats.vercel.app/api?username=H0clar&show_icons=true&theme=radical" alt="GitHub Stats" width="600">
 </p>
 
 <!--h2 without bottom border-->
