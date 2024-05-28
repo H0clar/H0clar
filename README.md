@@ -27,6 +27,17 @@
   </a>
 </p>
 
+<!-- Most Used Languages -->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h3 style="display: inline-block">Lenguajes Más Usados 📊</h3></summary>
+  </ul>
+</div>
+
+<p align="center">
+  <img src="/mnt/data/image.png" alt="Most Used Languages" width="600">
+</p>
+
 <!-- Connect with me -->
 <!--h2 without bottom border-->
 <div id="user-content-toc">
