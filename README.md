@@ -5,7 +5,14 @@
 
 <!-- Presentación -->
 <h1 align="center">Hi 👋, I'm Julio Romero</h1>
-<h3 align="center">Desarrollador Apasionado por el desarrollo</h3>
+<h3 align="center">Desarrollador Apasionado por el desarrollo.</h3>
+
+<!-- Botón para el portafolio -->
+<div align="center">
+  <a href="https://h0clar.github.io/portafolioAng/" target="_blank">
+    <img src="https://img.shields.io/badge/Portafolio-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Portafolio">
+  </a>
+</div>
 
 <!-- Imagen personalizada -->
 <div align="center">
