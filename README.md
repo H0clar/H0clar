@@ -176,11 +176,6 @@
   </a>
 </div>
 
-<!-- Contador de visitas -->
-<div align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=H0clar.H0clar" alt="Visitor Count">
-</div>
-
 <!-- Banner -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="Banner">
