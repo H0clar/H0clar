@@ -5,7 +5,7 @@
 
 <!-- Presentación -->
 <h1 align="center">Hi 👋, I'm Julio Romero</h1>
-<h3 align="center">Desarrollador Apasionado por el desarrollo de software</h3>
+<h3 align="center">Desarrollador Apasionado por el desarrollo</h3>
 
 <!-- Imagen personalizada -->
 <div align="center">
