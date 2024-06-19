@@ -9,7 +9,7 @@
 
 <!-- Botón para el portafolio -->
 <div align="center">
-  <a href="https://h0clar.github.io/portafolioAng/" target="_blank">
+  <a href="https://h0clar.github.io/portafolioAng/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portafolio-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Portafolio">
   </a>
 </div>
@@ -145,10 +145,10 @@
 <!-- Conectar conmigo -->
 <h3 align="center">Conéctate conmigo</h3>
 <div align="center">
-  <a href="https://www.linkedin.com/in/julio-romero-60b14b25b/" target="_blank">
+  <a href="https://www.linkedin.com/in/julio-romero-60b14b25b/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://github.com/H0clar" target="_blank">
+  <a href="https://github.com/H0clar" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </div>
