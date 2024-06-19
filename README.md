@@ -5,7 +5,7 @@
 
 <!-- Presentación -->
 <h1 align="center">Hi 👋, I'm Julio Romero</h1>
-<h3 align="center">Desarrollador Apasionado por el desarrollo.</h3>
+<h3 align="center">Desarrollador Apasionado por el desarrollo</h3>
 
 <!-- Botón para el portafolio -->
 <div align="center">
@@ -28,9 +28,9 @@
   <table>
     <tr>
       <td align="center" width="96">
-        <a href="https://www.java.com" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-          <br/>Java
+        <a href="https://www.python.org" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+          <br/>Python
         </a>
       </td>
       <td align="center" width="96">
@@ -40,27 +40,9 @@
         </a>
       </td>
       <td align="center" width="96">
-        <a href="https://www.python.org" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-          <br/>Python
-        </a>
-      </td>
-      <td align="center" width="96">
         <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
           <br/>TypeScript
-        </a>
-      </td>
-      <td align="center" width="96">
-        <a href="https://www.php.net" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-          <br/>PHP
-        </a>
-      </td>
-      <td align="center" width="96">
-        <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-          <br/>C#
         </a>
       </td>
     </tr>
@@ -79,21 +61,21 @@
         </a>
       </td>
       <td align="center" width="96">
-        <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-          <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
-          <br/>Django
-        </a>
-      </td>
-      <td align="center" width="96">
-        <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>
-          <br/>Laravel
-        </a>
-      </td>
-      <td align="center" width="96">
         <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
           <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
           <br/>TailwindCSS
+        </a>
+      </td>
+      <td align="center" width="96">
+        <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/>
+          <br/>Bootstrap
+        </a>
+      </td>
+      <td align="center" width="96">
+        <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+          <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
+          <br/>Django
         </a>
       </td>
     </tr>
@@ -106,27 +88,15 @@
   <table>
     <tr>
       <td align="center" width="96">
-        <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
-          <br/>Android
-        </a>
-      </td>
-      <td align="center" width="96">
-        <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-          <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
-          <br/>Arduino
-        </a>
-      </td>
-      <td align="center" width="96">
         <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
           <br/>Docker
         </a>
       </td>
       <td align="center" width="96">
-        <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
-          <br/>.NET
+        <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+          <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+          <br/>Git
         </a>
       </td>
       <td align="center" width="96">
@@ -136,9 +106,9 @@
         </a>
       </td>
       <td align="center" width="96">
-        <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-          <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-          <br/>Git
+        <a href="https://openai.com/" target="_blank" rel="noreferrer">
+          <img src="https://github.com/H0clar/H0clar/assets/118459488/b09380ee-1327-49ff-8b30-f4081cbae549" alt="openai" width="40" height="40"/>
+          <br/>OpenAI
         </a>
       </td>
     </tr>
