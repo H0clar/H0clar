@@ -5,7 +5,7 @@
 
 <!-- Presentación -->
 <h1 align="center">Hi 👋, I'm Julio Romero</h1>
-<h3 align="center">Desarrollador Apasionado por el desarrollo</h3>
+<h3 align="center">Analista Programador Apasionado por el desarrollo y las nuevas tecnologias.</h3>
 
 <!-- Botón para el portafolio -->
 <div align="center">
